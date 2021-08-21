@@ -1,0 +1,43 @@
+body {
+    background-color: darkred;        
+}
+.logo{
+    text-align: center;
+}
+.nav-item{
+    text-align: center;
+}
+.nav-item a{
+   color: white; 
+   text-decoration: none;
+}
+.nav-item img{
+    width: 200px;
+}
+.nav {
+    background-color: black;
+    width: 100%;   
+}
+.pro {
+    background-color: maroon;
+} 
+.pro a{
+    color: chocolate;
+}
+.niv {
+    color: white;
+}
+.tab{
+    background-color: white;
+}
+.tab h4{
+    background-color: grey;
+    text-align: center;
+}
+.copi{
+    text-align: center;
+    color: white;
+    background-color: chocolate;
+}
+
+
